@@ -11,3 +11,4 @@ join department as dept
 on dept_emp.dept_no = dept.dept_no
 join employee as emp
 on dept_emp.emp_no = emp.emp_no
+;
