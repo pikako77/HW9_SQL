@@ -1,3 +1,7 @@
+-- 1. List the following details of each employee: 
+-- employee number, last name, first name, 
+-- gender, and salary.
+
 drop view if exists salary_list;
 
 CREATE VIEW salary_list AS

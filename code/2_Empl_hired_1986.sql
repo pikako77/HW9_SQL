@@ -1,4 +1,4 @@
--- List of employees that were hired in 1986
+-- 2. List of employees that were hired in 1986
 
 select emp_no, 
        first_name, 
