@@ -115,6 +115,7 @@ from employee as emp
 join salaries as sal
 on emp.emp_no = sal.emp_no;
 
+select * from salary_list
 
 --------------------------------------
 --------------------------------------
