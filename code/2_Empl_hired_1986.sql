@@ -6,3 +6,4 @@ select emp_no,
 	   hire_date
 from employee
 where hire_date like '%' || '1986' || '%'
+;
