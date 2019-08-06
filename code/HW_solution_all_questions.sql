@@ -115,8 +115,6 @@ from employee as emp
 join salaries as sal
 on emp.emp_no = sal.emp_no;
 
-select count * from salary_list;
-select count(*) from salary_list;
 
 --------------------------------------
 --------------------------------------
