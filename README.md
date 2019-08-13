@@ -7,7 +7,7 @@ I used visual paradigm to model the database.
 
 ![ERD_diagram.png](ERD_diagram.PNG)
 
-## ## Data Engineering
+## Data Engineering
 
 * Queries are saved in "code/queries.sql"
 * Tables are saved in x.csv files in "result_csv/"
