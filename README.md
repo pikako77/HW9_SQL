@@ -10,6 +10,7 @@ I used visual paradigm to model the database.
 ## ## Data Engineering
 
 * Queries are saved in "code/queries.sql"
+* Tables are saved in x.csv files in "result_csv/"
 
 ## Data Analysis
 
